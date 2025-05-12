@@ -4,3 +4,5 @@ main: me.rexoz.xyz.duelshistory.Main
 author: Rexoz
 depend:
   - Duels
+commands:
+  macgecmis:
