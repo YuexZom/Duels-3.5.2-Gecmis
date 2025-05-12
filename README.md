@@ -4,7 +4,7 @@ Kod eksiktir hiç test edilmedi fakat çalışıyordur hasta olduğum için test
 Gerekli apiler'i sizler ile paylaştım.
 Kendiniz ekleme yapabilirsiniz veya hata var ise düzeltebilirsiniz.
 
-# Kullanmanızı önerdiğim api classları
+# Kullandığım ve Kullanmanızı önerdiğim api classları
 api/kit/Kit.class
 
 
