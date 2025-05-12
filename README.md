@@ -27,3 +27,4 @@ api/event/match/MatchEndEvent.class
 
 
 # Tüm api ve util ve gui dosyalarını ilettim
+# Yakında güncelleme alıcaktır
