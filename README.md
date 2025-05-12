@@ -5,22 +5,22 @@ Gerekli apiler'i sizler ile paylaştım.
 Kendiniz ekleme yapabilirsiniz veya hata var ise düzeltebilirsiniz.
 
 # Kullanmanızı önerdiğim api classları
-duels/api/kit/Kit.class
+api/kit/Kit.class
 
 
 
 
-duels/util/gui/GuiListener.class
+util/gui/GuiListener.class
 
 
 
 
-duels/api/user/UserManager.class
+api/user/UserManager.class
 
 
 
 
-duels/api/event/match/MatchEndEvent.class
+api/event/match/MatchEndEvent.class
 
 
 
