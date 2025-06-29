@@ -1,6 +1,6 @@
 # Duels-3.5.2-Gecmis
 
-Kod daki tüm eksikler giderilmiştir. Hata bulur iseniz discord: rexozcuk
+Kod daki tüm eksikler giderilmiştir. Hata bulur iseniz discord: rexoz22
 
 
 
